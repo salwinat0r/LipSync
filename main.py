@@ -1,8 +1,8 @@
 from fastapi import FastAPI, UploadFile, File
 from fastapi.responses import FileResponse
-from inference import run_wav2lip
 import subprocess
 import aiofiles
+import pyglet
 
 app = FastAPI(title="Wav2Lip")
 
@@ -35,11 +35,4 @@ async def upload_files(video: UploadFile = File(...), audio: UploadFile = File(.
     
     subprocess.run(command, shell=True)
 
-
-
     return {"resuls are generated"}
-
-@app.get("/get_output_video")
-async def get_output_video(output_video_path: str):
-    # Return the generated output video to the user
-    return FileResponse(output_video_path)

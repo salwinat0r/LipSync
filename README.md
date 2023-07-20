@@ -1,9 +1,12 @@
 # ListSync 👄
-
-
+A Deep Learning app that lip syncs any audio to a video or image.
 
 ## Aim
-Video - https://openinapp.co/5cwva
-Audio - https://openinapp.co/o9vuj
+- Video - https://openinapp.co/5cwva
+- Audio - https://openinapp.co/o9vuj
 
-Lip sync this audio with the video
+## Demo
+Watch the Demonstration: 
+
+
+## API
