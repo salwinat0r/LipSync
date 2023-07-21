@@ -2,7 +2,6 @@ from fastapi import FastAPI, UploadFile, File
 from fastapi.responses import FileResponse
 import subprocess
 import aiofiles
-import pyglet
 
 app = FastAPI(title="Wav2Lip")
 
