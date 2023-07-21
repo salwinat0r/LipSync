@@ -5,7 +5,8 @@ A Deep Learning app that lip syncs any audio to a video or image.
 - Video - [input_video.mp4](https://openinapp.co/5cwva)
 - Audio - [input_audio.wav](https://openinapp.co/o9vuj)
 
-Output - [Video](https://github.com/salwinat0r/LipSync/assets/72353689/f9047d31-c30e-4611-bd48-54a520719121)
+Output - [![Lip Synced Video](results.gif)](https://github-production-user-asset-6210df.s3.amazonaws.com/72353689/255168903-f9047d31-c30e-4611-bd48-54a520719121.mp4)
+
 
 
 ## Demo
