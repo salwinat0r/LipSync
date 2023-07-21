@@ -6,6 +6,7 @@ A Deep Learning app that lip syncs any audio to a video or image.
 - Audio - [input_audio.wav](https://openinapp.co/o9vuj)
 
 **Output**
+
 <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/72353689/255168903-f9047d31-c30e-4611-bd48-54a520719121.mp4"><img src="results.gif" width="240" height="150"/>
 </a>
 
