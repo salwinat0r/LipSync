@@ -5,9 +5,12 @@ A Deep Learning app that lip syncs any audio to a video or image.
 - Video - [input_video.mp4](https://openinapp.co/5cwva)
 - Audio - [input_audio.wav](https://openinapp.co/o9vuj)
 
+!https://github.com/salwinat0r/LipSync/assets/72353689/f9047d31-c30e-4611-bd48-54a520719121
+
+
 ## Demo
 Watch the Demonstration:  
-https://www.loom.com/share/dddbc63922714899a7c15b2eeba692d7?sid=2aba14f9-13cb-4bd9-8ffd-5c7cc0c2043e
+https://www.loom.com/share/dddbc63922714899a7c15b2eeba692d7?sid=1814f160-f917-465d-8b4f-c84901655782
 
 ## Installation
 To install the neccessary dependancies to use this project:
