@@ -7,7 +7,7 @@ A Deep Learning app that lip syncs any audio to a video or image.
 
 <!-- Output - [![Lip Synced Video](results.gif)](https://github-production-user-asset-6210df.s3.amazonaws.com/72353689/255168903-f9047d31-c30e-4611-bd48-54a520719121.mp4) -->
 
-<a href="https://github-production-user-asset-6210df.s3.amazonaws.com/72353689/255168903-f9047d31-c30e-4611-bd48-54a520719121.mp4"><img src="results.gif" height = "250" width="250" height="250"/>
+<a href="https://github-production-user-asset-6210df.s3.amazonaws.com/72353689/255168903-f9047d31-c30e-4611-bd48-54a520719121.mp4"><img src="results.gif" width="180" height="250"/>
 </a>
 
 ## Demo
